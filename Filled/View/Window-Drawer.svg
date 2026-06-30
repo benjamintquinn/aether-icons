@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/View/Window-Drawer</title>
+    <g id="Filled/View/Window-Drawer" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,11 C27.0543618,11 27.9181651,11.8158778 27.9945143,12.8507377 L28,13 L28,19 C28,20.0543618 27.1841222,20.9181651 26.1492623,20.9945143 L26,21 L6,21 C4.9456382,21 4.08183488,20.1841222 4.00548574,19.1492623 L4,19 L4,13 C4,11.9456382 4.81587779,11.0818349 5.85073766,11.0054857 L6,11 L26,11 Z M9,15 C9.55228475,15 10,15.4477153 10,16 C10,16.5522847 9.55228475,17 9,17 C8.44771525,17 8,16.5522847 8,16 C8,15.4477153 8.44771525,15 9,15 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

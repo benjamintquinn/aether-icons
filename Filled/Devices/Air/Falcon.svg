@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Air/Falcon</title>
+    <g id="Filled/Devices/Air/Falcon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,0 C23.1421954,0 24.8910789,1.68396847 24.9951047,3.80035966 L25,4 L25,28 C25,30.1421954 23.3160315,31.8910789 21.1996403,31.9951047 L21,32 L11,32 C8.85780461,32 7.10892112,30.3160315 7.00489531,28.1996403 L7,28 L7,4 C7,1.85780461 8.68396847,0.108921124 10.8003597,0.00489530723 L11,0 L21,0 Z M23,4 L9,4 L9,28 L23,28 L23,4 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

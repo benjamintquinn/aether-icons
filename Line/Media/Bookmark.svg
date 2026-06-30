@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Media/Bookmark</title>
+    <g id="Line/Media/Bookmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23,0 L9,0 C7.8954305,0 7,0.8954305 7,2 L7,31 C7,31.8591588 8.01192171,32.3183367 8.65850461,31.7525767 L16,25.3287682 L23.3414954,31.7525767 C23.9880783,32.3183367 25,31.8591588 25,31 L25,2 C25,0.8954305 24.1045695,0 23,0 Z M9,2 L23,2 L23,28.796 L17.3170092,23.8236148 L17.1802324,23.7140294 C16.4317834,23.1661024 15.3926868,23.2026309 14.6829908,23.8236148 L9,28.795 L9,2 Z" id="Media/Bookmark/Full" fill="#000000"></path>
+    </g>
+</svg>

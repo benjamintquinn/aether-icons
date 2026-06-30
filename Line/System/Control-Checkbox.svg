@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/System/Control-Checkbox</title>
+    <g id="Line/System/Control-Checkbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,7 L12,7 C9.23857625,7 7,9.23857625 7,12 L7,20 C7,22.7614237 9.23857625,25 12,25 L20,25 C22.7614237,25 25,22.7614237 25,20 L25,12 C25,9.23857625 22.7614237,7 20,7 Z M12,9 L20,9 C21.6568542,9 23,10.3431458 23,12 L23,20 C23,21.6568542 21.6568542,23 20,23 L12,23 C10.3431458,23 9,21.6568542 9,20 L9,12 C9,10.3431458 10.3431458,9 12,9 Z" id="System/Control/Checkbox" fill="#000000"></path>
+    </g>
+</svg>

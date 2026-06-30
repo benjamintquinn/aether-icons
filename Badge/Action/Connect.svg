@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Badge/Action/Connect</title>
+    <g id="Badge/Action/Connect" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="22" cy="22" r="10"></circle>
+        <path d="M21,19 L21,25 L19,25 C17.8954305,25 17,24.1045695 17,23 L12.0494845,23.0010997 C12.0167567,22.6718374 12,22.3378756 12,22 C12,21.6624661 12.0167229,21.328838 12.0493853,20.9998991 L17,21 C17,19.8954305 17.8954305,19 19,19 L21,19 Z M25,19 C26.1045695,19 27,19.8954305 27,21 L31.9506147,20.9998991 C31.9832771,21.328838 32,21.6624661 32,22 C32,22.3378756 31.9832433,22.6718374 31.9505155,23.0010997 L27,23 C27,24.1045695 26.1045695,25 25,25 L23,25 L23,19 L25,19 Z" id="Shape" fill="#FFFFFF"></path>
+    </g>
+</svg>

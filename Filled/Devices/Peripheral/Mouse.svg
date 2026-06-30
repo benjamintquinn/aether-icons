@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Peripheral/Mouse</title>
+    <g id="Filled/Devices/Peripheral/Mouse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,3 C23.7854517,3 26.8690987,6.00478338 26.995941,9.75935025 L27,10 L27,25 C27,27.1421954 25.3160315,28.8910789 23.1996403,28.9951047 L23,29 L9,29 C6.85780461,29 5.10892112,27.3160315 5.00489531,25.1996403 L5,25 L5,10 C5,6.21454828 8.00478338,3.13090132 11.7593502,3.00405902 L12,3 L20,3 Z M16,6 C16.5128358,6 16.9355072,6.38604019 16.9932723,6.88337887 L17,7 L17,13 C17,13.5522847 16.5522847,14 16,14 C15.4871642,14 15.0644928,13.6139598 15.0067277,13.1166211 L15,13 L15,7 C15,6.44771525 15.4477153,6 16,6 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Microsoft/XboxSeriesX</title>
+    <g id="Line/Devices/Microsoft/XboxSeriesX" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,1 C25.5522847,1 26,1.44771525 26,2 L26,30 C26,30.5522847 25.5522847,31 25,31 L7,31 C6.44771525,31 6,30.5522847 6,30 L6,2 C6,1.44771525 6.44771525,1 7,1 Z M24,3 L8,3 L8,29 L24,29 L24,3 Z M11,13 C11.5128358,13 11.9355072,13.3860402 11.9932723,13.8833789 L12,14 L12,26 C12,26.5522847 11.5522847,27 11,27 C10.4871642,27 10.0644928,26.6139598 10.0067277,26.1166211 L10,26 L10,14 C10,13.4477153 10.4477153,13 11,13 Z M11,10 C11.5522847,10 12,10.4477153 12,11 C12,11.5522847 11.5522847,12 11,12 C10.4477153,12 10,11.5522847 10,11 C10,10.4477153 10.4477153,10 11,10 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

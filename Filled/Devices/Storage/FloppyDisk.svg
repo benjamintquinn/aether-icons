@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Storage/FloppyDisk</title>
+    <g id="Filled/Devices/Storage/FloppyDisk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,3 C27.1421954,3 28.8910789,4.68396847 28.9951047,6.80035966 L29,7 L29,25 C29,27.1421954 27.3160315,28.8910789 25.1996403,28.9951047 L25,29 L7,29 C4.85780461,29 3.10892112,27.3160315 3.00489531,25.1996403 L3,25 L3,7 C3,4.85780461 4.68396847,3.10892112 6.80035966,3.00489531 L7,3 L25,3 Z M10,5 L8,5 L8,11 C8,12.1045695 8.8954305,13 10,13 L22,13 C23.1045695,13 24,12.1045695 24,11 L24,5 L22,5 L22,11 L10,11 L10,5 Z M20,7 L18,7 L18,9 L20,9 L20,7 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

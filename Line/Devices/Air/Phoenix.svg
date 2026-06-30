@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Air/Phoenix</title>
+    <g id="Line/Devices/Air/Phoenix" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,0 L10,0 C8.34314575,0 7,1.34314575 7,3 L7,29 C7,30.6568542 8.34314575,32 10,32 L22,32 C23.6568542,32 25,30.6568542 25,29 L25,3 C25,1.34314575 23.6568542,0 22,0 Z M10,2 L22,2 C22.5522847,2 23,2.44771525 23,3 L23,29 C23,29.5522847 22.5522847,30 22,30 L10,30 C9.44771525,30 9,29.5522847 9,29 L9,3 C9,2.44771525 9.44771525,2 10,2 Z M20,6 C20.5522847,6 21,5.55228475 21,5 C21,4.44771525 20.5522847,4 20,4 C19.4477153,4 19,4.44771525 19,5 C19,5.55228475 19.4477153,6 20,6 Z" id="Rectangle" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/File/Folder</title>
+    <g id="Filled/File/Folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,6 C3,4.40231912 4.24891996,3.09633912 5.82372721,3.00509269 L6,3 L14,3 C15.5976809,3 16.9036609,4.24891996 16.9949073,5.82372721 L17,6 L17,7 L26,7 C27.5976809,7 28.9036609,8.24891996 28.9949073,9.82372721 L29,10 L29,26 C29,27.5976809 27.75108,28.9036609 26.1762728,28.9949073 L26,29 L6,29 C4.40231912,29 3.09633912,27.75108 3.00509269,26.1762728 L3,26 L3,6 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

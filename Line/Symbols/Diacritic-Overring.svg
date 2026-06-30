@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Symbols/Diacritic-Overring</title>
+    <g id="Line/Symbols/Diacritic-Overring" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 C13.2385763,0 11,2.23857625 11,5 C11,7.76142375 13.2385763,10 16,10 C18.7614237,10 21,7.76142375 21,5 C21,2.23857625 18.7614237,0 16,0 Z M16,2 C17.6568542,2 19,3.34314575 19,5 C19,6.65685425 17.6568542,8 16,8 C14.3431458,8 13,6.65685425 13,5 C13,3.34314575 14.3431458,2 16,2 Z" id="Symbol/Diacritic/Overring" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Symbols/Diacritic-Macron</title>
+    <g id="Line/Symbols/Diacritic-Macron" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M31,0 C31.5128358,0 31.9355072,0.38604019 31.9932723,0.883378875 L32,1 L32,5 C32,5.51283584 31.6139598,5.93550716 31.1166211,5.99327227 L31,6 L1,6 C0.487164161,6 0.0644928393,5.61395981 0.00672773133,5.11662113 L0,5 L0,1 C0,0.487164161 0.38604019,0.0644928393 0.883378875,0.00672773133 L1,0 L31,0 Z M30,2 L2,2 L2,4 L30,4 L30,2 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

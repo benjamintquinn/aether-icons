@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Shapes &amp; Lines/Line-Vertical</title>
+    <g id="Line/Shapes-&amp;-Lines/Line-Vertical" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,1 C16.5128358,1 16.9355072,1.38604019 16.9932723,1.88337887 L17,2 L17,30 C17,30.5522847 16.5522847,31 16,31 C15.4871642,31 15.0644928,30.6139598 15.0067277,30.1166211 L15,30 L15,2 C15,1.44771525 15.4477153,1 16,1 Z" id="Symbol/Line/Vertical" fill="#000000"></path>
+    </g>
+</svg>

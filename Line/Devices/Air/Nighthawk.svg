@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Air/Nighthawk</title>
+    <g id="Line/Devices/Air/Nighthawk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30,11 C31.1045695,11 32,11.8954305 32,13 L32,19 C32,20.1045695 31.1045695,21 30,21 L2,21 C0.8954305,21 0,20.1045695 0,19 L0,13 C0,11.8954305 0.8954305,11 2,11 Z M2,19 L30,19 L30,18 L22,18 C21.7789863,18 21.565516,17.9268355 21.3919705,17.7939194 L21.2928932,17.7071068 L19.585,16 L2,16 L2,19 Z M30,16 L30,13 L2,13 L2,14 L20,14 C20.2210137,14 20.434484,14.0731645 20.6080295,14.2060806 L20.7071068,14.2928932 L22.415,16 L30,16 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

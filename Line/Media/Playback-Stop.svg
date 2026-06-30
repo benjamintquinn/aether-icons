@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Media/Playback-Stop</title>
+    <g id="Line/Media/Playback-Stop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,5 L8,5 C6.34314575,5 5,6.34314575 5,8 L5,24 C5,25.6568542 6.34314575,27 8,27 L24,27 C25.6568542,27 27,25.6568542 27,24 L27,8 C27,6.34314575 25.6568542,5 24,5 Z M8,7 L24,7 C24.5522847,7 25,7.44771525 25,8 L25,24 C25,24.5522847 24.5522847,25 24,25 L8,25 C7.44771525,25 7,24.5522847 7,24 L7,8 C7,7.44771525 7.44771525,7 8,7 Z" id="Media/Playback/Stop" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Map/Directions-Arrow</title>
+    <g id="Filled/Map/Directions-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.09093518,26.5833453 L4.05057667,26.6841954 C3.76262787,27.5235663 4.66685674,28.3208021 5.47885213,27.8778956 L16,22.138 L26.5211479,27.8778956 C27.3656231,28.3385184 28.309858,27.4578032 27.9090648,26.5833453 L16.9090648,2.58334529 C16.552576,1.80555157 15.447424,1.80555157 15.0909352,2.58334529 L4.09093518,26.5833453 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

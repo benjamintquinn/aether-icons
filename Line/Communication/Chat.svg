@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Communication/Chat</title>
+    <g id="Line/Communication/Chat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,3 L7,3 C4.790861,3 3,4.790861 3,7 L3,31 L3.00557157,31.1091537 C3.08647093,31.8925008 4.03030209,32.2910829 4.65077606,31.7592697 L12.536,25 L25,25 C27.209139,25 29,23.209139 29,21 L29,7 C29,4.790861 27.209139,3 25,3 Z M7,5 L25,5 C26.1045695,5 27,5.8954305 27,7 L27,21 C27,22.1045695 26.1045695,23 25,23 L12.167,23 L12.025056,23.010123 C11.837947,23.0369531 11.6612167,23.1164558 11.5162239,23.2407303 L5,28.825 L5,7 C5,5.8954305 5.8954305,5 7,5 Z" id="Communication/Chat" fill="#000000"></path>
+    </g>
+</svg>

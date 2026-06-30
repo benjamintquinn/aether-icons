@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/View/Window</title>
+    <g id="Line/View/Window" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,3 C28.0543618,3 28.9181651,3.81587779 28.9945143,4.85073766 L29,5 L29,27 C29,28.0543618 28.1841222,28.9181651 27.1492623,28.9945143 L27,29 L5,29 C3.9456382,29 3.08183488,28.1841222 3.00548574,27.1492623 L3,27 L3,5 C3,3.9456382 3.81587779,3.08183488 4.85073766,3.00548574 L5,3 L27,3 Z M27,5 L5,5 L5,27 L27,27 L27,5 Z M8,7 C8.55228475,7 9,7.44771525 9,8 C9,8.55228475 8.55228475,9 8,9 C7.44771525,9 7,8.55228475 7,8 C7,7.44771525 7.44771525,7 8,7 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

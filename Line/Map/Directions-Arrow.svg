@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Map/Directions-Arrow</title>
+    <g id="Line/Map/Directions-Arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.0909352,2.58334529 C15.447424,1.80555157 16.552576,1.80555157 16.9090648,2.58334529 L27.9090648,26.5833453 C28.309858,27.4578032 27.3656231,28.3385184 26.5211479,27.8778956 L16,22.138 L5.47885213,27.8778956 C4.66685674,28.3208021 3.76262787,27.5235663 4.05057667,26.6841954 L4.09093518,26.5833453 Z M16,5.4 L7.162,24.681 L15.5211479,20.1221044 C15.7823157,19.9796493 16.0911603,19.9618424 16.3642473,20.0686837 L16.4788521,20.1221044 L24.837,24.681 L16,5.4 Z" id="Map/Directions/Arrow" fill="#000000"></path>
+    </g>
+</svg>

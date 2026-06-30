@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Symbols/Diacritic-Grave</title>
+    <g id="Line/Symbols/Diacritic-Grave" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.9970651,0 L17.4970651,0 C18.46601,0 19.2955889,0.694562717 19.4659203,1.64841872 L21.9634992,14.635362 C22.1848242,15.8742807 21.2423187,17 19.9970651,17 L19.4970651,17 C18.7597703,17 18.0822716,16.5943534 17.7341052,15.9444428 L10.2493996,2.97194387 C9.52035587,1.61211073 10.4855934,0 11.9970651,0 Z M11.9970651,2 L19.4970651,15 L19.9970651,15 L17.4970651,2 L11.9970651,2 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

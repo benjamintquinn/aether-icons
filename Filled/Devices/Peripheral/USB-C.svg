@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Peripheral/USB-C</title>
+    <g id="Filled/Devices/Peripheral/USB-C" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,9 C28.8659932,9 32,12.1340068 32,16 C32,19.7854517 28.9952166,22.8690987 25.2406498,22.995941 L25,23 L7,23 C3.13400675,23 0,19.8659932 0,16 C0,12.2145483 3.00478338,9.13090132 6.75935025,9.00405902 L7,9 L25,9 Z M25,15 L7,15 C6.44771525,15 6,15.4477153 6,16 C6,16.5522847 6.44771525,17 7,17 L25,17 C25.5522847,17 26,16.5522847 26,16 C26,15.4477153 25.5522847,15 25,15 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

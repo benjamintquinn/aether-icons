@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Microsoft/SurfacePro</title>
+    <g id="Line/Devices/Microsoft/SurfacePro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,6 L5,6 C4.44771525,6 4,6.44771525 4,7 L4,23 C4,23.5522847 4.44771525,24 5,24 L27,24 C27.5522847,24 28,23.5522847 28,23 L28,7 C28,6.44771525 27.5522847,6 27,6 Z M26,8 L26,22 L6,22 L6,8 L26,8 Z M30,25 C30.5522847,25 31,25.4477153 31,26 C31,26.5128358 30.6139598,26.9355072 30.1166211,26.9932723 L30,27 L2,27 C1.44771525,27 1,26.5522847 1,26 C1,25.4871642 1.38604019,25.0644928 1.88337887,25.0067277 L2,25 L30,25 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

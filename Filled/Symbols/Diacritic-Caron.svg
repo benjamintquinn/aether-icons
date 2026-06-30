@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Symbols/Diacritic-Caron</title>
+    <g id="Filled/Symbols/Diacritic-Caron" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M8,15 L5,15 C3.2972771,15 2.37336678,16.9920492 3.47322743,18.2918845 L14.4732274,31.2918845 C15.272127,32.2360385 16.727873,32.2360385 17.5267726,31.2918845 L28.5267726,18.2918845 C29.6266332,16.9920492 28.7027229,15 27,15 L24,15 L23.816152,15.0094105 L23.6371148,15.0376323 C23.1696833,15.1295552 22.7830005,15.353672 22.4948466,15.6829908 L15.999,23.442 L9.51940225,15.6996398 C9.12537721,15.2489609 8.57672517,15 8,15 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

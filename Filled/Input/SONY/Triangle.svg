@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Input/SONY/Triangle</title>
+    <g id="Filled/Input/SONY/Triangle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 3.55271368e-15,24.836556 3.55271368e-15,16 C3.55271368e-15,7.163444 7.163444,0 16,0 Z M15.1317569,7.50386106 L7.13175686,21.5038611 C6.75081013,22.1705178 7.23217733,23 8,23 L24,23 C24.7678227,23 25.2491899,22.1705178 24.8682431,21.5038611 L16.8682431,7.50386106 C16.484349,6.83204631 15.515651,6.83204631 15.1317569,7.50386106 Z M16,10.016 L22.276,21 L9.723,21 L16,10.016 Z" id="Input/Button/A" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Shapes &amp; Lines/Parallelogram</title>
+    <g id="Line/Shapes-&amp;-Lines/Parallelogram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29,2 L12,2 C11.5737962,2 11.1944297,2.27013278 11.0550139,2.67288944 L2.05501393,28.6728894 C1.83015808,29.322473 2.31259987,30 3,30 L20,30 C20.4262038,30 20.8055703,29.7298672 20.9449861,29.3271106 L29.9449861,3.32711056 C30.1698419,2.67752702 29.6874001,2 29,2 Z M27.595,4 L19.288,28 L4.403,28 L12.711,4 L27.595,4 Z" id="Rectangle" fill="#000000"></path>
+    </g>
+</svg>

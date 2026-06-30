@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Media/Playback-FrameBack</title>
+    <g id="Filled/Media/Playback-FrameBack" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,5 C27.6568542,5 29,6.34314575 29,8 L29,24 C29,25.6568542 27.6568542,27 26,27 C24.3431458,27 23,25.6568542 23,24 L23,8 C23,6.34314575 24.3431458,5 26,5 Z M21,6 L21,26 C21,26.7986954 20.1098545,27.2750868 19.4452998,26.8320503 L4.4452998,16.8320503 C3.85156673,16.4362282 3.85156673,15.5637718 4.4452998,15.1679497 L19.4452998,5.16794971 C20.1098545,4.72491322 21,5.20130462 21,6 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

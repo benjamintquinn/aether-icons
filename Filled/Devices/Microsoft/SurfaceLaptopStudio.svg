@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Microsoft/SurfaceLaptopStudio</title>
+    <g id="Filled/Devices/Microsoft/SurfaceLaptopStudio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,24 C1.44771525,24 1,23.5522847 1,23 C1,22.4871642 1.38604019,22.0644928 1.88337887,22.0067277 L2,22 L30,22 C30.5522847,22 31,22.4477153 31,23 C31,23.5128358 30.6139598,23.9355072 30.1166211,23.9932723 L30,24 L29,24 L29,27 C29,27.5128358 28.6139598,27.9355072 28.1166211,27.9932723 L28,28 L4,28 C3.44771525,28 3,27.5522847 3,27 L3,24 L2,24 Z M27,5 C27.5128358,5 27.9355072,5.38604019 27.9932723,5.88337887 L28,6 L28,21 L4,21 L4,6 C4,5.48716416 4.38604019,5.06449284 4.88337887,5.00672773 L5,5 L27,5 Z M26,7 L6,7 L6,19 L26,19 L26,7 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

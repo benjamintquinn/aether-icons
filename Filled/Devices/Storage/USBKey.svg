@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Storage/USBKey</title>
+    <g id="Filled/Devices/Storage/USBKey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23,10 C24.0543618,10 24.9181651,10.8158778 24.9945143,11.8507377 L25,12 L28,12 C28.5128358,12 28.9355072,12.3860402 28.9932723,12.8833789 L29,13 L29,19 C29,19.5128358 28.6139598,19.9355072 28.1166211,19.9932723 L28,20 L25,20 C25,21.0543618 24.1841222,21.9181651 23.1492623,21.9945143 L23,22 L5,22 C3.9456382,22 3.08183488,21.1841222 3.00548574,20.1492623 L3,20 L3,12 C3,10.9456382 3.81587779,10.0818349 4.85073766,10.0054857 L5,10 L23,10 Z M27,14 L25,14 L25,18 L27,18 L27,14 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

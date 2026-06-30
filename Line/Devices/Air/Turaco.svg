@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Air/Turaco</title>
+    <g id="Line/Devices/Air/Turaco" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25.9,1 C27.0551081,1 28,1.92506899 28,3.07692308 L28,28.9230769 C28,30.074931 27.0551081,31 25.9,31 L6.1,31 C4.94489189,31 4,30.074931 4,28.9230769 L4,3.07692308 C4,1.92506899 4.94489189,1 6.1,1 Z M25.9,3 L6.1,3 C6.04008166,3 6,3.03924078 6,3.07692308 L6,28.9230769 C6,28.9607592 6.04008166,29 6.1,29 L13,29 L13,28 C13,27.4477153 13.4477153,27 14,27 L18,27 C18.5522847,27 19,27.4477153 19,28 L19,29 L25.9,29 C25.9599183,29 26,28.9607592 26,28.9230769 L26,3.07692308 C26,3.03924078 25.9599183,3 25.9,3 Z" id="Device/AirTuraco" fill="#000000"></path>
+    </g>
+</svg>

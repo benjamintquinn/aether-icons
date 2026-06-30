@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Input/Keyboard-Arrow-Left</title>
+    <g id="Filled/Input/Keyboard-Arrow-Left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14.2,11.4 L8.2,19.4 C7.70557281,20.0592363 8.17595468,21 9,21 L21,21 C21.8240453,21 22.2944272,20.0592363 21.8,19.4 L15.8,11.4 C15.4,10.8666667 14.6,10.8666667 14.2,11.4 Z" id="Path" fill="#000000" transform="translate(15, 16) rotate(-90) translate(-15, -16)"></path>
+    </g>
+</svg>

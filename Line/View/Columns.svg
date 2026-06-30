@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/View/Columns</title>
+    <g id="Line/View/Columns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M24,2 C25.0543618,2 25.9181651,2.81587779 25.9945143,3.85073766 L26,4 L26,27 C26,28.0543618 25.1841222,28.9181651 24.1492623,28.9945143 L24,29 L8,29 C6.9456382,29 6.08183488,28.1841222 6.00548574,27.1492623 L6,27 L6,4 C6,2.9456382 6.81587779,2.08183488 7.85073766,2.00548574 L8,2 L24,2 Z M12,9 L8,9 L8,27 L12,27 L12,9 Z M18,9 L14,9 L14,27 L18,27 L18,9 Z M24,9 L20,9 L20,27 L24,27 L24,9 Z M12,4 L8,4 L8,7 L12,7 L12,4 Z M18,4 L14,4 L14,7 L18,7 L18,4 Z M24,4 L20,4 L20,7 L24,7 L24,4 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/System/Control-CheckboxConditional</title>
+    <g id="Filled/System/Control-CheckboxConditional" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,7 C22.6887547,7 24.8818181,9.12230671 24.9953805,11.7831104 L25,12 L25,20 C25,22.6887547 22.8776933,24.8818181 20.2168896,24.9953805 L20,25 L12,25 C9.3112453,25 7.11818189,22.8776933 7.00461951,20.2168896 L7,20 L7,12 C7,9.3112453 9.12230671,7.11818189 11.7831104,7.00461951 L12,7 L20,7 Z M20,15 C20.5522847,15 21,15.4477153 21,16 C21,16.5128358 20.6139598,16.9355072 20.1166211,16.9932723 L20,17 L12,17 C11.4477153,17 11,16.5522847 11,16 C11,15.4871642 11.3860402,15.0644928 11.8833789,15.0067277 L12,15 L20,15 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

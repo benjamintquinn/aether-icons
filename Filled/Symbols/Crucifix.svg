@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Symbols/Crucifix</title>
+    <g id="Filled/Symbols/Crucifix" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M14,1 L13.8833789,1.00672773 C13.3860402,1.06449284 13,1.48716416 13,2 L13,7 L6,7 C5.44771525,7 5,7.44771525 5,8 L5,12 L5.00672773,12.1166211 C5.06449284,12.6139598 5.48716416,13 6,13 L13,13 L13,30 C13,30.5522847 13.4477153,31 14,31 L18,31 L18.1166211,30.9932723 C18.6139598,30.9355072 19,30.5128358 19,30 L19,13 L26,13 C26.5522847,13 27,12.5522847 27,12 L27,8 L26.9932723,7.88337887 C26.9355072,7.38604019 26.5128358,7 26,7 L19,7 L19,2 C19,1.44771525 18.5522847,1 18,1 L14,1 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

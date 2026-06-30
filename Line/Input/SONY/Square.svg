@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Input/SONY/Square</title>
+    <g id="Line/Input/SONY/Square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 3.55271368e-15,24.836556 3.55271368e-15,16 C3.55271368e-15,7.163444 7.163444,0 16,0 Z M16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 C23.7319865,30 30,23.7319865 30,16 C30,8.2680135 23.7319865,2 16,2 Z M22,8 C23.1045695,8 24,8.8954305 24,10 L24,22 C24,23.1045695 23.1045695,24 22,24 L10,24 C8.8954305,24 8,23.1045695 8,22 L8,10 C8,8.8954305 8.8954305,8 10,8 L22,8 Z M22,10 L10,10 L10,22 L22,22 L22,10 Z" id="Input/Button/A" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Badge/Action/Capture</title>
+    <g id="Badge/Action/Capture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M23.9,15 C25.5568542,15 26.9,16.3431458 26.9,18 L28.4,18 C30.0568542,18 31.4,19.3431458 31.4,21 L31.4,27 C31.4,28.6568542 30.0568542,30 28.4,30 L16.4,30 C14.7431458,30 13.4,28.6568542 13.4,27 L13.4,21 C13.4,19.3431458 14.7431458,18 16.4,18 L17.9,18 C17.9,16.3431458 19.2431458,15 20.9,15 L23.9,15 Z M22.5,20 C20.5670034,20 19,21.5670034 19,23.5 C19,25.4329966 20.5670034,27 22.5,27 C24.4329966,27 26,25.4329966 26,23.5 C26,21.5670034 24.4329966,20 22.5,20 Z" id="Badge/Action/Capture/Large" fill="#000000"></path>
+    </g>
+</svg>

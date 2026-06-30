@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Edit/Layer-Group</title>
+    <g id="Filled/Edit/Layer-Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,2 C28.209139,2 30,3.790861 30,6 L30,26 C30,28.209139 28.209139,30 26,30 L6,30 C3.790861,30 2,28.209139 2,26 L2,6 C2,3.790861 3.790861,2 6,2 Z M15,25 C15,26.1045695 15.8954305,27 17,27 L25,27 C26.1045695,27 27,26.1045695 27,25 L27,17 C27,15.8954305 26.1045695,15 25,15 L17,15 L17,7 C17,5.8954305 16.1045695,5 15,5 L7,5 C5.8954305,5 5,5.8954305 5,7 L5,15 C5,16.1045695 5.8954305,17 7,17 L15,17 L15,25 Z M25,17 L25,25 L17,25 L17,17 L25,17 Z M15,7 L15,15 L7,15 L7,7 L15,7 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

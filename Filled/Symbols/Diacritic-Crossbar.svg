@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Symbols/Diacritic-Crossbar</title>
+    <g id="Filled/Symbols/Diacritic-Crossbar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M31,13 C31.5128358,13 31.9355072,13.3860402 31.9932723,13.8833789 L32,14 L32,18 C32,18.5128358 31.6139598,18.9355072 31.1166211,18.9932723 L31,19 L1,19 C0.487164161,19 0.0644928393,18.6139598 0.00672773133,18.1166211 L0,18 L0,14 C0,13.4871642 0.38604019,13.0644928 0.883378875,13.0067277 L1,13 L31,13 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

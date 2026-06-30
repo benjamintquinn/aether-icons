@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Edit/Border-All</title>
+    <g id="Line/Edit/Border-All" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,3 C27.209139,3 29,4.790861 29,7 L29,25 C29,27.209139 27.209139,29 25,29 L7,29 C4.790861,29 3,27.209139 3,25 L3,7 C3,4.790861 4.790861,3 7,3 Z M15,17 L5,17 L5,25 C5,26.0543618 5.81587779,26.9181651 6.85073766,26.9945143 L7,27 L15,27 L15,17 Z M27,17 L17,17 L17,27 L25,27 C26.0543618,27 26.9181651,26.1841222 26.9945143,25.1492623 L27,25 L27,17 Z M15,5 L7,5 C5.8954305,5 5,5.8954305 5,7 L5,15 L15,15 L15,5 Z M25,5 L17,5 L17,15 L27,15 L27,7 C27,5.9456382 26.1841222,5.08183488 25.1492623,5.00548574 L25,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

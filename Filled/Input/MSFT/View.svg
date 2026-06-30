@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Input/MSFT/View</title>
+    <g id="Filled/Input/MSFT/View" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 Z M24,15 L14,15 L14,23 L24,23 L24,15 Z M22,17 L22,21 L16,21 L16,17 L22,17 Z M18,9 L8,9 L8,17 L11.5,17 L11.5,15 L10,15 L10,11 L16,11 L16,13 L18,13 L18,9 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

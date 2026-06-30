@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Objects/Outlet-TypeG</title>
+    <g id="Line/Objects/Outlet-TypeG" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,3 C28.1045695,3 29,3.8954305 29,5 L29,27 C29,28.1045695 28.1045695,29 27,29 L5,29 C3.8954305,29 3,28.1045695 3,27 L3,5 C3,3.8954305 3.8954305,3 5,3 L27,3 Z M27,5 L5,5 L5,27 L27,27 L27,5 Z M14,8 L18,8 L18,14 L14,14 Z M8,20 L13,20 L13,22 L8,22 Z M19,20 L24,20 L24,22 L19,22 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

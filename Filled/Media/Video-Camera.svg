@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Media/Video-Camera</title>
+    <g id="Filled/Media/Video-Camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,7 L6,7 C4.34314575,7 3,8.34314575 3,10 L3,22 C3,23.6568542 4.34314575,25 6,25 L21,25 L21.1762728,24.9949073 C22.75108,24.9036609 24,23.5976809 24,22 L23.999,21.079 L27.375305,23.7808688 C28.0300683,24.3046795 29,23.8385062 29,23 L29,9 L28.9941087,8.8880241 C28.9124756,8.12115982 28.0003063,7.71913009 27.375305,8.21913119 L23.999,10.92 L24,10 C24,8.34314575 22.6568542,7 21,7 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

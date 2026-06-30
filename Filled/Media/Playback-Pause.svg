@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Media/Playback-Pause</title>
+    <g id="Filled/Media/Playback-Pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11,3 C9.34314575,3 8,4.34314575 8,6 L8,26 C8,27.6568542 9.34314575,29 11,29 C12.6568542,29 14,27.6568542 14,26 L14,6 C14,4.34314575 12.6568542,3 11,3 Z M22,3 C20.3431458,3 19,4.34314575 19,6 L19,26 C19,27.6568542 20.3431458,29 22,29 C23.6568542,29 25,27.6568542 25,26 L25,6 C25,4.34314575 23.6568542,3 22,3 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

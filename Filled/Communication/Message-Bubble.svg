@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Communication/Message-Bubble</title>
+    <g id="Filled/Communication/Message-Bubble" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16,2 C7.74700362,2 1,7.78314596 1,15 L1.00588934,15.3676389 C1.08430883,17.8129452 1.94377131,20.1422228 3.45820232,22.1378236 L3.588,22.303 L2.03849688,27.725206 L2.01380427,27.8322757 C1.88281295,28.5771056 2.61707747,29.2114355 3.35094344,28.9363967 L9.389,26.673 L9.00316616,26.5036677 C11.1423125,27.4819629 13.5294642,28 16,28 C24.2529964,28 31,22.216854 31,15 C31,7.78314596 24.2529964,2 16,2 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Badge/Action/Time</title>
+    <g id="Badge/Action/Time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="22" cy="22" r="10"></circle>
+        <path d="M22,15 C22.5128358,15 22.9355072,15.3860402 22.9932723,15.8833789 L23,16 L23,21.667 L25.8,25.4 C26.1058808,25.807841 26.053113,26.3732927 25.6956754,26.7185041 L25.6,26.8 C25.192159,27.1058808 24.6267073,27.053113 24.2814959,26.6956754 L24.2,26.6 L21.2,22.6 C21.0961423,22.4615231 21.0304569,22.2990862 21.0083371,22.1288689 L21,22 L21,16 C21,15.4477153 21.4477153,15 22,15 Z" id="Path" fill="#FFFFFF"></path>
+    </g>
+</svg>

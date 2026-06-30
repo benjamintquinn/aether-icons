@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Shapes &amp; Lines/Line-Diagonal-Up</title>
+    <g id="Line/Shapes-&amp;-Lines/Line-Diagonal-Up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27.2928932,3.29289322 C27.6834175,2.90236893 28.3165825,2.90236893 28.7071068,3.29289322 C29.0675907,3.65337718 29.0953203,4.22060824 28.7902954,4.61289944 L28.7071068,4.70710678 L4.70710678,28.7071068 C4.31658249,29.0976311 3.68341751,29.0976311 3.29289322,28.7071068 C2.93240926,28.3466228 2.90467972,27.7793918 3.20970461,27.3871006 L3.29289322,27.2928932 L27.2928932,3.29289322 Z" id="Symbol/Line/DiagonalUp" fill="#000000"></path>
+    </g>
+</svg>

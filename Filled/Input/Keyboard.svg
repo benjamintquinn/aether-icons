@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Input/Keyboard</title>
+    <g id="Filled/Input/Keyboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26,5 C27.5976809,5 28.9036609,6.24891996 28.9949073,7.82372721 L29,8 L29,23 C29,24.5976809 27.75108,25.9036609 26.1762728,25.9949073 L26,26 L6,26 C4.40231912,26 3.09633912,24.75108 3.00509269,23.1762728 L3,23 L3,8 C3,6.40231912 4.24891996,5.09633912 5.82372721,5.00509269 L6,5 L26,5 Z M23,20 L9,20 L9,22 L23,22 L23,20 Z M11,15 L9,15 L9,17 L11,17 L11,15 Z M23,15 L21,15 L21,17 L23,17 L23,15 Z M15,15 L13,15 L13,17 L15,17 L15,15 Z M19,15 L17,15 L17,17 L19,17 L19,15 Z M11,10 L9,10 L9,12 L11,12 L11,10 Z M15,10 L13,10 L13,12 L15,12 L15,10 Z M19,10 L17,10 L17,12 L19,12 L19,10 Z M23,10 L21,10 L21,12 L23,12 L23,10 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

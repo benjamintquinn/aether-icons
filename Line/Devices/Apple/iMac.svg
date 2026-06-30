@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Apple/iMac</title>
+    <g id="Line/Devices/Apple/iMac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30,3 C31.1045695,3 32,3.8954305 32,5 L32,23 C32,24.1045695 31.1045695,25 30,25 L21,25 L21,28 C21,28.5128358 20.6139598,28.9355072 20.1166211,28.9932723 L20,29 L12,29 C11.4477153,29 11,28.5522847 11,28 L11,25 L2,25 C0.945638205,25 0.0818348781,24.1841222 0.00548573643,23.1492623 L0,23 L0,5 C0,3.8954305 0.8954305,3 2,3 Z M19,25 L13,25 L13,27 L19,27 L19,25 Z M30,20 L2,20 L2,23 L30,23 L30,20 Z M30,5 L2,5 L2,18 L30,18 L30,5 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

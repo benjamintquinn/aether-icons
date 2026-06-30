@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/People/Individual</title>
+    <g id="Filled/People/Individual" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,21 L11,21 C6.02943725,21 2,25.0294373 2,30 C2,30.5522847 2.44771525,31 3,31 L29,31 C29.55826,31 30.0084111,30.5429192 30.000116,29.9847243 L29.9960765,29.735545 C29.847272,24.8680473 25.8662216,21 21,21 Z M16,0 C10.6367719,0 7,3.82909832 7,9 C7,13.6399986 12.1304259,19 16,19 C19.8695741,19 25,13.6399986 25,9 C25,3.82909832 21.3632281,0 16,0 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

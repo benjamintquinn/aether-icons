@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Badge/Status/More</title>
+    <g id="Badge/Status/More" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="22" cy="10" r="10"></circle>
+        <path d="M22,5 C22.5522847,5 23,5.44771525 23,6 L23,9 L26,9 C26.5522847,9 27,9.44771525 27,10 C27,10.5522847 26.5522847,11 26,11 L23,11 L23,14 C23,14.5522847 22.5522847,15 22,15 C21.4477153,15 21,14.5522847 21,14 L21,10.999 L18,11 C17.4477153,11 17,10.5522847 17,10 C17,9.44771525 17.4477153,9 18,9 L21,8.999 L21,6 C21,5.44771525 21.4477153,5 22,5 Z" id="Path" fill="#FFFFFF"></path>
+    </g>
+</svg>

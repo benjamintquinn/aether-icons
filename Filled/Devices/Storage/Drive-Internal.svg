@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Storage/Drive-Internal</title>
+    <g id="Filled/Devices/Storage/Drive-Internal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M27,8 C29.209139,8 31,9.790861 31,12 L31,20 C31,22.209139 29.209139,24 27,24 L5,24 C2.790861,24 1,22.209139 1,20 L1,12 C1,9.790861 2.790861,8 5,8 Z M23,14 L22.7667577,14.0134555 C21.7720804,14.1289857 21,14.9743283 21,16 C21,17.1045695 21.8954305,18 23,18 L23.2332423,17.9865445 C24.2279196,17.8710143 25,17.0256717 25,16 C25,14.8954305 24.1045695,14 23,14 Z" id="Path-2" fill="#000000"></path>
+    </g>
+</svg>

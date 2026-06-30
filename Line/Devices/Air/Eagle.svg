@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Air/Eagle</title>
+    <g id="Line/Devices/Air/Eagle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21,0 C22.6568542,0 24,1.34314575 24,3 L24,29 C24,30.6568542 22.6568542,32 21,32 L11,32 C9.34314575,32 8,30.6568542 8,29 L8,3 C8,1.34314575 9.34314575,0 11,0 Z M21,2 L11,2 C10.4477153,2 10,2.44771525 10,3 L10,29 C10,29.5522847 10.4477153,30 11,30 L13,30 L13,29 C13,28.4477153 13.4477153,28 14,28 L18,28 C18.5522847,28 19,28.4477153 19,29 L19,30 L21,30 C21.5522847,30 22,29.5522847 22,29 L22,3 C22,2.44771525 21.5522847,2 21,2 Z" id="Device/AirCaracara" fill="#000000"></path>
+    </g>
+</svg>

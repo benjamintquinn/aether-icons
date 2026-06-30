@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Symbols/Diacritic-VerticalBar</title>
+    <g id="Line/Symbols/Diacritic-VerticalBar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,0 C18.5128358,0 18.9355072,0.38604019 18.9932723,0.883378875 L19,1 L19,31 C19,31.5128358 18.6139598,31.9355072 18.1166211,31.9932723 L18,32 L14,32 C13.4871642,32 13.0644928,31.6139598 13.0067277,31.1166211 L13,31 L13,1 C13,0.487164161 13.3860402,0.0644928393 13.8833789,0.00672773133 L14,0 L18,0 Z M17,2 L15,2 L15,30 L17,30 L17,2 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>

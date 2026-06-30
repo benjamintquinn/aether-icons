@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Air/Manucode</title>
+    <g id="Filled/Devices/Air/Manucode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M29,4 C30.0543618,4 30.9181651,4.81587779 30.9945143,5.85073766 L31,6 L31,27 C31,27.5522847 30.5522847,28 30,28 C29.4871642,28 29.0644928,27.6139598 29.0067277,27.1166211 L29,27 L29,25 L3,25 L3,27 C3,27.5522847 2.55228475,28 2,28 C1.48716416,28 1.06449284,27.6139598 1.00672773,27.1166211 L1,27 L1,6 C1,4.9456382 1.81587779,4.08183488 2.85073766,4.00548574 L3,4 L29,4 Z M29,9 L3,9 L3,20 L29,20 L29,9 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

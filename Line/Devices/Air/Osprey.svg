@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Line/Devices/Air/Osprey</title>
+    <g id="Line/Devices/Air/Osprey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,0 C23.1045695,0 24,0.8954305 24,2 L24,30 C24,31.1045695 23.1045695,32 22,32 L10,32 C8.8954305,32 8,31.1045695 8,30 L8,2 C8,0.8954305 8.8954305,0 10,0 Z M22,2 L10,2 L10,30 L13,30 L13,29 C13,28.4477153 13.4477153,28 14,28 L18,28 C18.5522847,28 19,28.4477153 19,29 L19,30 L22,30 L22,2 Z" id="Device/AirOsprey" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Devices/Apple/MacBookAir</title>
+    <g id="Filled/Devices/Apple/MacBookAir" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,4 C26.5976809,4 27.9036609,5.24891996 27.9949073,6.82372721 L28,7 L27.9997098,20 L31,20 C31.7042567,20 32.1752635,20.7021309 31.9402197,21.3413847 L31.8944272,21.4472136 C30.4455988,24.3448704 28.2094447,25.897955 25.2938231,25.9951388 L25,26 L7,26 C3.94050708,26 1.60269548,24.4414589 0.105572809,21.4472136 C-0.20938034,20.8173073 0.207983932,20.0820234 0.884864682,20.00637 L1,20 L3.99970979,20 L4,7 C4,5.40231912 5.24891996,4.09633912 6.82372721,4.00509269 L7,4 L25,4 Z M6,8 L6,20 L26,20 L26,8 L6,8 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Filled/Weather/Lightning</title>
+    <g id="Filled/Weather/Lightning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,4 L12,4 C11.5999719,4 11.2384338,4.23839685 11.080855,4.6060807 L5.08085497,18.6060807 L5.04073042,18.7166071 C4.85255723,19.3452447 5.32196874,20 6,20 L14.556,20 L12.0636708,26.6488766 C11.6931568,27.636914 12.9071895,28.4508221 13.6804511,27.7327935 L27.6804511,14.7327935 L27.7580003,14.6530222 C28.3091775,14.0234265 27.8709964,13 27,13 L19.538,13 L22.9138115,5.40613847 C23.2077171,4.74485107 22.7236584,4 22,4 Z" id="Path" fill="#000000"></path>
+    </g>
+</svg>
