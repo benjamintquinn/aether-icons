@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Line/Devices/Air/Starling</title>
-    <g id="Line/Devices/Air/Starling" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M23,3 C24.6568542,3 26,4.34314575 26,6 L26,26 C26,27.6568542 24.6568542,29 23,29 L9,29 C7.34314575,29 6,27.6568542 6,26 L6,6 C6,4.34314575 7.34314575,3 9,3 Z M8,26 C8,26.5522847 8.44771525,27 9,27 L23,27 C23.5522847,27 24,26.5522847 24,26 Z M24,8 L8,8 L8,24 L24,24 L24,8 Z M23,5 L9,5 C8.44771525,5 8,5.44771525 8,6 L24,6 C24,5.44771525 23.5522847,5 23,5 Z" id="Combined-Shape" fill="#000000"></path>
-    </g>
-</svg>

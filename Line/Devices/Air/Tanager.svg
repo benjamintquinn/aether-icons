@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Line/Devices/Air/Tanager</title>
-    <g id="Line/Devices/Air/Tanager" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M25,2 C26.1045695,2 27,2.8954305 27,4 L27,28 C27,29.1045695 26.1045695,30 25,30 L7,30 C5.8954305,30 5,29.1045695 5,28 L5,4 C5,2.8954305 5.8954305,2 7,2 Z M25,4 L7,4 L7,28 L13,28 L13,27 C13,26.4477153 13.4477153,26 14,26 L18,26 C18.5522847,26 19,26.4477153 19,27 L19,28 L25,28 L25,4 Z" id="Device/AirTanager" fill="#000000"></path>
-    </g>
-</svg>

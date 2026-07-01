@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Line/Devices/Air/Myna</title>
-    <g id="Line/Devices/Air/Myna" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M21,0 C21.5522847,0 22,0.44771525 22,1 L22,31 C22,31.5522847 21.5522847,32 21,32 L11,32 C10.4477153,32 10,31.5522847 10,31 L10,1 C10,0.44771525 10.4477153,0 11,0 Z M20,22 L12,22 L12,30 L20,30 L20,22 Z M20,12 L12,12 L12,20 L20,20 L20,12 Z M20,2 L12,2 L12,10 L20,10 L20,2 Z" id="Combined-Shape" fill="#000000"></path>
-    </g>
-</svg>

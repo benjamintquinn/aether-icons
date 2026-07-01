@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Filled/Devices/Air/Hummingbird</title>
-    <g id="Filled/Devices/Air/Hummingbird" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 Z M16,5 C22.0751322,5 27,9.92486775 27,16 C27,22.0751322 22.0751322,27 16,27 C9.92486775,27 5,22.0751322 5,16 C5,9.92486775 9.92486775,5 16,5 Z M11,15 L15,15 C15.5522847,15 16,15.4477153 16,16 C16,16.5522847 15.5522847,17 15,17 L11,17 C10.4477153,17 10,16.5522847 10,16 C10,15.4477153 10.4477153,15 11,15 Z" id="Shape" fill="#000000"></path>
-    </g>
-</svg>
