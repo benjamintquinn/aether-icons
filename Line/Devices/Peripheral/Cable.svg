@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Line/Devices/Peripheral/Cable</title>
-    <g id="Line/Devices/Peripheral/Cable" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M23,10 C24.1045695,10 25,10.8954305 25,12 L28,12 C28.5522847,12 29,12.4477153 29,13 L29,19 C29,19.5522847 28.5522847,20 28,20 L25,20 C25,21.1045695 24.1045695,22 23,22 L12,22 C10.8954305,22 10,21.1045695 10,20 L10,17 L2,17 C1.44771525,17 1,16.5522847 1,16 C1,15.4871642 1.38604019,15.0644928 1.88337887,15.0067277 L2,15 L10,15 L10,12 C10,10.9456382 10.8158778,10.0818349 11.8507377,10.0054857 L12,10 Z M23,12 L12,12 L12,20 L23,20 L23,12 Z M27,14 L25,14 L25,18 L27,18 L27,14 Z" id="Combined-Shape" fill="#000000"></path>
-    </g>
-</svg>

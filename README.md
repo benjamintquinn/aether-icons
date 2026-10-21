@@ -24,7 +24,7 @@ The icon library is broken into categories to make it easy to find and organize 
 - Measurement
 - Media
 - Money
-- Natural Environment
+- Nature
 - Objects
 - People
 - Science & Health
